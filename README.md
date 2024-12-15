@@ -9,7 +9,8 @@ For the complete coolness factor take a look at [OH-MY-POSH](https://ohmyposh.de
 ### Requirements
 
 - Nerd Font
-    * Some styles require a Nerd Font. 
+    * Some styles require a Nerd Font.
+- Windows Terminal
 
 ### Disclaimer
 
